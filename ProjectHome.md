@@ -1,0 +1,3 @@
+XOSD is an open source On Screen Display system that overlays flight data on the video feed that an FPV pilot sees. Compatible hardware is being prototyped and will be produced by SparkLabs.
+
+This Google code project was created on 19 Jan 2012 as a placeholder for the XOSD name. It is currently dormant until the proposer and principal developer uploads the first set of design files and firmware. If you are interested in this project register to receive updates.
